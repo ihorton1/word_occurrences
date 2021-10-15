@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-- [Tech Stack Overview](#Tech Stack Overview)
+- [Tech Stack Overview](#TechStackOverview)
 - [Prerequisites](#prerequisites)
 - [Build](#build)
 - [Run](#run)
 - [Test](#test)
 
-## Tech Stack Overview <a name="Tech Stack Overview"></a>
+## Tech Stack Overview <a name="TechStackOverview"></a>
 
 - Flask web application
 - Gunicorn web server
